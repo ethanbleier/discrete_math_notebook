@@ -1,2 +1,2 @@
 #!/bin/bash
-for file in examples/*.py; do python3 "$file"; done
+for file in Examples/*.py; do python3 "$file"; done
