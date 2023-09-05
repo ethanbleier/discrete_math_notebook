@@ -1,9 +1,8 @@
 # Ethan Bleier
 # 8/29/23
 # ChatGPt "discrete math set operation python examples"
-
-
-
+# Using built-in python functions for the operations.
+# Check out /UnionAndIntersection/ to see the behind the scenes of these ops
 
 # Define two sets
 set_A = {1, 2, 3, 4, 5}
